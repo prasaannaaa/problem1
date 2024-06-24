@@ -1,0 +1,17 @@
+html{
+    
+    color: rgb(51, 39, 39);
+    font-size: large;
+}
+h1{
+    text-align: left;
+}
+pre{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: medium;
+    text-align: justify;
+}
+img{
+    width: auto;
+}
